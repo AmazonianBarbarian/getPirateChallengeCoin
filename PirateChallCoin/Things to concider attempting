@@ -1,0 +1,6 @@
+Things to concider attempting:
+
+1. Use python to examine each pixel one by one and produce binary data and run it through cyberchef
+
+2.  "data extraction from the bitmap will require taking square chunks of pixels and using math.round on the average value of the pixels in the square."
+Suggestion by associate that I met at a hacking convention.
