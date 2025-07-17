@@ -13,3 +13,4 @@ for i in range (0, y): # Looping through the rows.
     text.write("\n")
 
 text.close()
+img.close()
