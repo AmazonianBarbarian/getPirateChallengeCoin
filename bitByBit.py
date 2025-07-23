@@ -1,3 +1,5 @@
+#This is a script meant to analyze an image pixel by pixel.
+
 from PIL import Image
 
 # Open the image
